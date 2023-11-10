@@ -1,4 +1,4 @@
-# Attendance System Project Portfolio
+# Attendance System Project
 ## Executive Summary
 This project presents an innovative attendance system utilizing real-time database technology and face recognition. At its core are three Python scripts: Main.py, EncodeGenerator.py, and AddDatatoDatabase.py. These scripts leverage advanced libraries and techniques to build a system capable of accurately recording attendance through facial recognition. The system's efficiency is enhanced by its use of a real-time database, specifically utilizing Firebase (Fireadmin) as its database framework. This amalgamation of cutting-edge technology ensures a seamless and efficient attendance management system.
 
